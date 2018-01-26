@@ -1,0 +1,47 @@
+﻿<Window x:Class="WpfApplication1.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Icon="icon.png"
+        Title="Zaloguj się do naszej aplikacji!" Height="435" Width="540" FontSize="14">
+
+
+    <Grid Margin="0,0,0,0">
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/backgr.png"/>
+        </Grid.Background>
+
+        <Grid Margin="183,69,34,85" Background="#FFFDFDFD" Opacity="0.5">
+            <Label Content="Nazwa użytkownika" Foreground="#050505" FontFamily="OCR A Extended" FontSize="16" Margin="58,0,52,237"/>
+            <TextBox x:Name="txtnazwa_uzytkownika" Background="Black" Foreground="White" FontSize="18" BorderBrush="Black" Opacity="0.5" Margin="58,36,52,206" SelectionBrush="White" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+
+            <Label Content="Hasło" Foreground="#050505" FontWeight="Bold" FontFamily="OCR A Extended" FontSize="16" Margin="58,72,52,170"/>
+            <PasswordBox x:Name="txthaslo" Background="Black" Foreground="White" FontSize="18" BorderThickness="1" BorderBrush="Black" Opacity="0.5" Margin="58,103,52,139" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+
+            <Button Style="{StaticResource MyButton}" IsDefault="True" x:Name="btnSubmit" Click="btnSubmit_Click"  Margin="220,150,10,65" Foreground="#FF020000" FontSize="18" RenderTransformOrigin="1.327,0.617" Cursor="Hand" FontFamily="OCR A Extended" Width="85" Height="58">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/login_bt.png"/>
+                </Button.Background>
+            </Button>
+            <Button Style="{StaticResource MyButton}"  x:Name="btnRegister" Click="btnRegister_Click"  Margin="142,202,109,10" Foreground="Black" FontSize="12"   Cursor="Hand" FontFamily="OCR A Extended" Height="61" HorizontalAlignment="Stretch">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/regi.png"/>
+                </Button.Background>
+            </Button>
+            <Label Content="ZALOGUJ SIĘ:" HorizontalAlignment="Left" Margin="122,160,0,0" VerticalAlignment="Top" Width="114" Height="27" FontFamily="OCR A Extended"/>
+            <Label Content="ZAREJESTRUJ SIĘ:" HorizontalAlignment="Left" Margin="0,225,0,0" VerticalAlignment="Top" Height="38" Width="142" FontFamily="OCR A Extended"/>
+
+
+        </Grid>
+        <Button Style="{StaticResource MyButton}" Click="Exit_Click" HorizontalAlignment="Stretch" Margin="490,0,5,0" VerticalAlignment="Top" Height="40" Width="40">
+            <Button.Background>
+                <ImageBrush ImageSource="Images/exit_1.png"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,68 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        Icon="icon.png"
+        ResizeMode="NoResize"
+        Title="Witamy w naszej aplikacji!" Height="716.5" Width="1053">
+    <Border>
+        <Border.Background>
+            <ImageBrush ImageSource="Images/back1.jpg"/>
+        </Border.Background>
+
+        <Grid HorizontalAlignment="Left" Height="673" Margin="25,25,0,0" VerticalAlignment="Top" Width="980">
+
+            <Button Style="{StaticResource MyButton}" Click="Dodaj_Pomiar_Click" HorizontalAlignment="Left" Height="138" Margin="262,386,0,0" VerticalAlignment="Top" Width="152">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/add.png"/>
+                </Button.Background>
+            </Button>
+
+            <Button Style="{StaticResource MyButton}" Click="Button_Click" HorizontalAlignment="Left" Height="138" Margin="262,525,0,0" VerticalAlignment="Top" Width="152">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/archiwum.png"/>
+                </Button.Background>
+            </Button>
+            <Button Style="{StaticResource MyButton}" Click="button_wyloguj_Click" x:Name="button_wyloguj" HorizontalAlignment="Stretch" Margin="900,-20,23,0" VerticalAlignment="Top" RenderTransformOrigin="2.693,0.955" Height="55">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/logout.png" Opacity="0.99"/>
+                </Button.Background>
+            </Button>
+            <Label  x:Name="label" HorizontalAlignment="Left" Margin="649,0,0,0" VerticalAlignment="Top" Width="227" Height="35" FontSize="20" RenderTransformOrigin="0.883,0.085" Foreground="Black" FontFamily="OCR A Extended" VerticalContentAlignment="Center">
+            </Label>
+
+
+            <TextBox x:Name="txt_Pulse" HorizontalAlignment="Left" Height="45" Margin="262,92,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="152" Opacity="0.8" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="txt_Systolic" HorizontalAlignment="Left" Height="45" Margin="262,151,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="152" Opacity="0.8" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="txt_Diastolic" HorizontalAlignment="Left" Height="45" Margin="262,208,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="152" Opacity="0.8" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Label Content="PULS" x:Name="PULS" HorizontalAlignment="Left" Height="45" Margin="182,92,0,0" VerticalAlignment="Top" Width="57" FontSize="18" FontFamily="OCR A Extended" Foreground="Black"/>
+            <Label Content="CIŚNIENIE SKURCZOWE" x:Name="SKURCZOWE" HorizontalAlignment="Left" Height="45" Margin="24,151,0,0" VerticalAlignment="Top" Width="215" FontSize="18" FontFamily="OCR A Extended" Foreground="Black"/>
+            <Label Content="CIŚNIENIE ROZKURCZOWE" x:Name="ROZKURCZOWE" HorizontalAlignment="Left" Height="45" Margin="10,208,0,0" VerticalAlignment="Top" Width="247" FontSize="18" FontFamily="OCR A Extended" Foreground="Black"/>
+            <Button Style="{StaticResource MyButton}" Click="Exit_Click" HorizontalAlignment="Left" Margin="968,-20,-38,0" VerticalAlignment="Top" Width="50" Height="50" RenderTransformOrigin="0.773,0.39">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/exit_1.png"/>
+                </Button.Background>
+            </Button>
+
+            <Label Content="JESTEŚ ZALOGOWANY JAKO:" HorizontalAlignment="Left" Margin="432,0,0,0" VerticalAlignment="Top" Height="35" Width="209" FontFamily="OCR A Extended" FontSize="14" Foreground="Black" VerticalContentAlignment="Center"/>
+            <Button x:Name="Check_button" Click="Check_button_Click" Style="{StaticResource MyButton}" HorizontalAlignment="Left" Margin="282,258,0,0" VerticalAlignment="Top" Width="132" Height="117">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/check1.png"/>
+                </Button.Background>
+            </Button>
+            <Label Content="OPIS WYNIKOW:" HorizontalAlignment="Left" Margin="520,78,0,0" VerticalAlignment="Top" Height="59" Width="376" FontFamily="OCR A Extended" FontSize="36" Foreground="Black"/>
+            <TextBox x:Name="txt_opis_wynikow" HorizontalAlignment="Left" Height="499" Margin="496,151,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="474" FontFamily="OCR A Extended" FontSize="14" Background="#FFFBFBFB" Foreground="Black" Opacity="0.75"/>
+            <Label Content="mm Hg" HorizontalAlignment="Left" Margin="419,208,0,0" VerticalAlignment="Top" Height="45" Width="63" Foreground="Black" FontFamily="OCR A Extended" FontSize="16" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Label Content="mm Hg" HorizontalAlignment="Left" Margin="419,164,0,0" VerticalAlignment="Top" Height="32" Width="63" Foreground="Black" FontFamily="OCR A Extended" FontSize="16" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Label Content="/min" HorizontalAlignment="Left" Margin="419,92,0,0" VerticalAlignment="Top" Height="49" Width="63" Foreground="Black" FontFamily="OCR A Extended" FontSize="16" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+            <Label Content="SPRAWDŹ SWOJ WYNIK:" HorizontalAlignment="Left" Height="45" Margin="60,304,0,0" VerticalAlignment="Top" Width="217" FontFamily="OCR A Extended" FontSize="18"/>
+            <Label Content="DODAJ NOWY POMIAR:" HorizontalAlignment="Left" Height="47" Margin="48,441,0,0" VerticalAlignment="Top" Width="191" FontFamily="OCR A Extended" FontSize="17"/>
+            <Label Content="POBIERZ SWOJE POMIARY:" HorizontalAlignment="Left" Margin="24,566,0,0" VerticalAlignment="Top" Height="50" Width="233" FontFamily="OCR A Extended" FontSize="17"/>
+        </Grid>
+
+    </Border>
+</Window>

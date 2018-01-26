@@ -1,0 +1,122 @@
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\RegisterWindow.baml
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\RegisterWindow.g.cs
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\History.g.cs
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\History.baml
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\Measurements.g.cs
+C:\Users\Damian\Desktop\OI\WpfApplication1\WpfApplication1\obj\Debug\Measurements.baml
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\RegisterWindow.baml
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\History.g.cs
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\Measurements.g.cs
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\RegisterWindow.g.cs
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\History.baml
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\Measurements.baml
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Damian\Desktop\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\RegisterWindow.baml
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\History.g.cs
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\Measurements.g.cs
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\RegisterWindow.g.cs
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\History.baml
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\Measurements.baml
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\History_List.g.cs
+C:\Users\Damian\Desktop\WPF PROJEKT\OI 21.11\OI\WpfApplication1\WpfApplication1\obj\Debug\History_List.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\RegisterWindow.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\History.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\History_List.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\Measurements.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\RegisterWindow.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\History.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\History_List.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\Measurements.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\RegisterWindow.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\History.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\History_List.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\Measurements.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\RegisterWindow.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\History.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\History_List.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\Measurements.baml
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Damian\Desktop\Aplikacja_Cisnienie\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb

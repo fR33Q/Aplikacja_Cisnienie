@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfApplication1.History"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Icon="icon.png"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Title="History" Height="435" Width="540">
+
+    <Border>
+        <Grid>
+            <Grid.Background>
+                <ImageBrush ImageSource="Images/back.jpg"/>
+            </Grid.Background>
+            <Label Content="WARTOSC PULSU" HorizontalAlignment="Left" Margin="200,72,0,325" Width="141" Foreground="White" FontFamily="OCR A Extended" FontSize="16" Background="#00000000" Padding="5"/>
+            <Label Content="WARTOSC CISNIENIA SKURCZOWEGO" HorizontalAlignment="Left" Margin="49,119,0,278" Width="297" Foreground="White" FontFamily="OCR A Extended" FontSize="16"/>
+            <Label Content="WARTOSC CISNIENIA ROZKURCZOWEGO" HorizontalAlignment="Left" Margin="31,168,0,0" VerticalAlignment="Top" Width="310" Height="30" Foreground="White" FontFamily="OCR A Extended" FontSize="16"/>
+            <Label Content="Archiwum pomiarów z dnia:" Margin="10,10,273,378" FontSize="16" FontFamily="OCR A Extended" Foreground="White"/>
+            <Label Content="" x:Name="label_date" RenderTransformOrigin="0.503,-10.829" Margin="259,10,74,378" FontFamily="OCR A Extended" Foreground="White" FontSize="16"/>
+            <TextBox x:Name="txt_systolic" Background="Black" Foreground="White" FontSize="18" BorderBrush="Black" Opacity="0.5" Margin="346,119,50,278" RenderTransformOrigin="0.507,1.196" BorderThickness="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+            <TextBox x:Name="txt_diastolic" Background="Black" Foreground="White" FontSize="18" BorderBrush="Black" Opacity="0.5" Margin="346,168,50,229" RenderTransformOrigin="0.507,1.196" BorderThickness="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="txt_pulse" Background="Black" Foreground="White" FontSize="18" BorderBrush="Black" Opacity="0.5" Margin="346,72,50,325" RenderTransformOrigin="0.507,1.196" BorderThickness="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+
+
+            <Button Style="{StaticResource MyButton}" x:Name="Exit_bt" Click="Exit_bt_Click" HorizontalAlignment="Left" Margin="490,0,0,0" VerticalAlignment="Top" Width="50" Height="50">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/exit_1.png"/>
+                </Button.Background>
+            </Button>
+
+        </Grid>
+    </Border>
+</Window>
